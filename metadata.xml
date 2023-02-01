@@ -1,8 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-	<name>Boss Rush Wave Indicator</name>
-	<directory>boss rush wave indicator</directory>
-	<description/>
-	<version>1.0</version>
-	<visibility/>
-</metadata>
+    <name>Boss Rush Wave Indicator</name>
+    <directory>boss rush wave indicator</directory>
+    <id>2927032437</id>
+    <description>Adds a simple indicator whenever a new Boss Rush wave starts!
+It tells you what wave number you are on, as well as if its halfway there or the final wave.
+Works with all mods that add new boss rush waves.
 
+Thanks to Nami for the cool thumbnail.</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+</metadata>
